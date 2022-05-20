@@ -1,0 +1,16 @@
+D:\parttime\PokerGames\bin\Debug\net5.0\PokerGames.exe
+D:\parttime\PokerGames\bin\Debug\net5.0\PokerGames.deps.json
+D:\parttime\PokerGames\bin\Debug\net5.0\PokerGames.runtimeconfig.json
+D:\parttime\PokerGames\bin\Debug\net5.0\PokerGames.runtimeconfig.dev.json
+D:\parttime\PokerGames\bin\Debug\net5.0\PokerGames.dll
+D:\parttime\PokerGames\bin\Debug\net5.0\ref\PokerGames.dll
+D:\parttime\PokerGames\bin\Debug\net5.0\PokerGames.pdb
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.csproj.AssemblyReference.cache
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.AssemblyInfoInputs.cache
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.AssemblyInfo.cs
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.csproj.CoreCompileInputs.cache
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.dll
+D:\parttime\PokerGames\obj\Debug\net5.0\ref\PokerGames.dll
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.pdb
+D:\parttime\PokerGames\obj\Debug\net5.0\PokerGames.genruntimeconfig.cache

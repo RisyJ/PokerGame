@@ -1,0 +1,5 @@
+D:\publishCode\PokerGames.exe
+D:\publishCode\PokerGames.dll
+D:\publishCode\PokerGames.deps.json
+D:\publishCode\PokerGames.runtimeconfig.json
+D:\publishCode\PokerGames.pdb
