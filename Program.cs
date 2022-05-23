@@ -12,7 +12,7 @@ namespace PokerGames
     {
         static void Main(string[] args)
         {
-            string winer = "", loser = "";
+            string winner = "", loser = "";
             Console.WriteLine("将15张牌分成三行.\n" +
                     "每行自上而下（其实方向不限）分别是3、5、7张.\n" +
                     "安排两个玩家，每人可以在一轮内，在任意行拿任意张牌，但不能跨行.\n" +
@@ -29,12 +29,12 @@ namespace PokerGames
                 int playerTakeNum = TakePoker(Player.Player1, pokerRowLength);
                 totalPoker = totalPoker - playerTakeNum;
                 if (totalPoker == 1){
-                    winer = Player.Player1.ToString();
+                    winner = Player.Player1.ToString();
                     loser = Player.Player2.ToString();
                     break;
                 }
                 else if(totalPoker == 0){
-                    winer = Player.Player2.ToString();
+                    winner = Player.Player2.ToString();
                     loser = Player.Player1.ToString();
                     break;
                 }
@@ -44,17 +44,17 @@ namespace PokerGames
                 //剩余总牌数
                 totalPoker = totalPoker - playerTakeNum;
                 if (totalPoker == 1){
-                    winer = Player.Player2.ToString();
+                    winner = Player.Player2.ToString();
                     loser = Player.Player1.ToString();
                     break;
                 }
                 else if (totalPoker == 0){
-                    winer = Player.Player1.ToString();
+                    winner = Player.Player1.ToString();
                     loser = Player.Player2.ToString();
                     break;
                 }
             }
-            Console.WriteLine("赢家"+winer+"，输家"+loser);
+            Console.WriteLine("赢家"+winner+"，输家"+loser);
             Console.ReadLine();
         }
         public  static int TakePoker(Player player, int[] pokerRowLength)
